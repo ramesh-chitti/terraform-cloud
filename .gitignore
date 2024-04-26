@@ -6,4 +6,3 @@ ssh-keys
 *.pem
 *.pub
 a1.provider.tf
-ssh-keys
